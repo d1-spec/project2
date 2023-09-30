@@ -1,0 +1,129 @@
+* {
+    margin: 0;
+}
+
+
+header {
+    background-color: #1F2937;
+    height: 530px;
+    display: flex;
+    flex-wrap: wrap;
+    overflow: auto;
+}
+
+.logo {
+    color: #fff;
+    font-family: arial, san-serif;
+    font-size: 24px;
+    margin-right: 400px;
+    margin-left: 190px;
+    margin-top: 20px;
+}
+.navbar {
+    text-decoration: none;
+    color: gray;
+    font-size: 25px;
+    margin-left: 80px;
+    margin-top: 12px;
+}
+.this {
+    font-family: arial, san-serif;
+    font-size: 20px;
+    margin-left: 190px;
+    margin-right: 30px;
+    color: white;
+}
+
+.subthis {
+    font-size: 20px;
+    color:#b8b8b8;
+}
+
+.sign-up {
+    border: none;
+    color: white;
+    background-color: #3882f6;
+    font-size: 18px;
+    border-radius: 12px;
+    margin-top: 20px;
+    padding: 9px;
+    width: 116px;
+}
+    
+
+.img {
+    height: 220px;
+    width: 500px;
+    padding-left: 30px;
+}
+
+
+.ndtitle {
+    margin-top: 50px;
+    text-align: center;
+    font-size: 40px;
+
+}
+
+
+.contbox {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.box {
+    border: 3px solid #3882f6;
+    margin-top: 50px;
+    margin-left: 30px;
+    margin-right: 20px;
+    width: 150px;
+    height: 150px;
+    border-radius: 12px;
+}
+
+.cont-desc {
+    display: flex;
+    justify-content: center;
+    height: 150px;
+}
+
+.desc-illustration {
+    color: rgb(56, 56, 56);
+    font-family: arial, san-serif;
+    font-size: 19px;
+    margin-top: 6px;
+    margin-left: 28px;
+}
+
+.ins-quote-cont {
+    background-color: #e5e7eb;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 450px;
+}
+
+.ins-quote {
+    color: #1f2937;
+    font-size: 36px;
+    font-family: arial, san-serif;
+}
+
+.firm {
+    color: #1f2937;
+    font-size:28px;
+    font-family: arial, san-serif;
+    margin-left: 595px;
+}
+
+.c-action {
+    display: flex;
+    margin: 90px 170px 90px 120px;
+    width: auto;
+    height: 120px;
+    border-radius: 12px;
+    background-color: #3882f6;
+
+}
